@@ -1,4 +1,4 @@
-package main;
+package main.part1;
 
 @FunctionalInterface
 public interface Cab {
