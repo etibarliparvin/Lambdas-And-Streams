@@ -1,4 +1,4 @@
-package SDET.part1;
+package SDET.lambdas.part1;
 
 @FunctionalInterface
 public interface Cab {
