@@ -1,4 +1,4 @@
-package main.part1;
+package SDET.part1;
 
 @FunctionalInterface
 public interface Cab {
